@@ -1,0 +1,8 @@
+{
+  "name": "Remix Zoma Boutique",
+  "description": "Bilingual (English \u0026 Amharic) luxury boutique clothing store with customer catalog, direct WhatsApp and Telegram ordering, and Supabase-powered admin inventory management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
